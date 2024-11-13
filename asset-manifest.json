@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/QQuelz-Portfolio-Site/static/css/main.ec484f85.css",
+    "main.js": "/QQuelz-Portfolio-Site/static/js/main.56bd94df.js",
+    "static/js/453.534db5b8.chunk.js": "/QQuelz-Portfolio-Site/static/js/453.534db5b8.chunk.js",
+    "static/media/me.jpg": "/QQuelz-Portfolio-Site/static/media/me.1f6440a5ec6c9aac8243.jpg",
+    "index.html": "/QQuelz-Portfolio-Site/index.html",
+    "main.ec484f85.css.map": "/QQuelz-Portfolio-Site/static/css/main.ec484f85.css.map",
+    "main.56bd94df.js.map": "/QQuelz-Portfolio-Site/static/js/main.56bd94df.js.map",
+    "453.534db5b8.chunk.js.map": "/QQuelz-Portfolio-Site/static/js/453.534db5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec484f85.css",
+    "static/js/main.56bd94df.js"
+  ]
+}
